@@ -50,7 +50,7 @@ jobs:
 
       - name: Retrieving next RC number
         id: next-rc-number
-        uses: belcebus/git-tags-action@main
+        uses: santander-group/git-tag-counter-action@main
         with:
           version: ${{steps.project-new-version.outputs.newversion}}-RC
       
