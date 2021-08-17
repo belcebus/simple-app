@@ -60,7 +60,7 @@
             <archive>
               <manifest>
                 <addClasspath>true</addClasspath>
-                <mainClass>com.theironbank.App</mainClass>
+                <mainClass>com.belcebus.App</mainClass>
               </manifest>
             </archive>
           </configuration>

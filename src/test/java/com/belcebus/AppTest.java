@@ -1,4 +1,4 @@
-package com.theironbank;
+package com.belcebus;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
